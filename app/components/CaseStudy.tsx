@@ -16,9 +16,16 @@ const CaseStudy = () => {
         <div className="p-4 ">
           <h1 className="text-3xl font-bold mb-2">Case Study</h1>
           <div className="mb-14 mt-5">
-            Scaling a Mobile Payments App in East Africa “In just 3 months, we
-            helped a Ugandan startup launch a loan management app with 10,000+
-            users and integrated KYC/credit checks using Smile Identity.”
+            <div className="font-bold mb-2">
+              Simplifying Money Transfers Across Uganda
+            </div>
+            <p>
+              In just a few months, we built Kacente — a 24/7 app that lets
+              users transfer money between banks and mobile wallets in seconds,
+              with a seamless and secure experience. Built for scale, Kacente
+              bridges the gap between traditional banking and mobile money
+              services
+            </p>
           </div>
           <div className="grid grid-cols-4  ">
             <div className="font-semibold text-base">Tech stack:</div>
