@@ -16,7 +16,7 @@ const CaseStudy = () => {
         <div className="p-4 ">
           <h1 className="text-3xl font-bold mb-2">Case Study</h1>
           <div className="mb-14 mt-5">
-            Scaling a Mobile Lending App in East Africa “In just 3 months, we
+            Scaling a Mobile Payments App in East Africa “In just 3 months, we
             helped a Ugandan startup launch a loan management app with 10,000+
             users and integrated KYC/credit checks using Smile Identity.”
           </div>
@@ -50,6 +50,7 @@ const CaseStudy = () => {
           width={900}
           height={900}
           alt="Phone"
+          unoptimized
           className="mx-auto"
         />
       </div>
